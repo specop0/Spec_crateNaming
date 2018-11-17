@@ -1,5 +1,5 @@
 class Extended_PreInit_EventHandlers {
-    class My_pre_init_event {
+    class Spec_crateNaming {
         init = "call Spec_crateNaming_fnc_XEH_preInit";
     };
 };

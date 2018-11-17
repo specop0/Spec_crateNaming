@@ -12,7 +12,7 @@
                 <English>Rename Crate</English>
                 <German>Kiste umbennen</German>
             </Key>
-            <Key ID="STR_Spec_crateNaming_Name">
+            <Key ID="STR_Spec_crateNaming_DialogNameEntry">
                 <Original>Name</Original>
                 <English>Name</English>
                 <German>Name</German>

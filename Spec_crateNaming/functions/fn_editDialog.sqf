@@ -33,7 +33,7 @@ private _dialogResult =
 [
     localize "STR_Spec_crateNaming_DialogTitle",
     [
-        [localize "STR_Spec_crateNaming_Name", "", _userDisplayName, true]
+        [localize "STR_Spec_crateNaming_DialogNameEntry", "", _userDisplayName, true]
     ]
 ] call Ares_fnc_ShowChooseDialog;
 
