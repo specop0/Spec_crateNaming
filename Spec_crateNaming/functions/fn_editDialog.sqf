@@ -11,7 +11,7 @@
     None
 
     Example:
-    [_crate] call Spec_crateNaming_fnc_editDialog;
+    [_crate] spawn Spec_crateNaming_fnc_editDialog;
 */
 #include "script_component.hpp"
 
